@@ -4,7 +4,6 @@ ft_ls [README in construction]
 ## Reprogramming of terminal ls command
 
 Supported flags:
-
 A - list all entries except . and ..
 C - force multi-column output
 G - enable colorized output
