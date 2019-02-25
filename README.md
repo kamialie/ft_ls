@@ -4,6 +4,7 @@ ft_ls [README in construction]
 ## Reprogramming of terminal ls command
 
 Supported flags:
+
 A - list all entries except . and ..
 C - force multi-column output
 G - enable colorized output
@@ -18,7 +19,7 @@ u - sort by time of last access
 x - multicolumn format with entries sorted across, rather than down
 1 - force output to be one entry per line
 
-# Project commands
+### Project commands
 
 make - compile executable
 make clean - remove object files
