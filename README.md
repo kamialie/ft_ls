@@ -1,9 +1,8 @@
 # ft_ls
-ft_ls [README in construction]
 
 ## Reprogramming of terminal ls command
 
-Supported flags:\n
+Supported flags:
 - A - list all entries except . and ..
 - C - force multi-column output
 - G - enable colorized output
@@ -17,6 +16,10 @@ Supported flags:\n
 - u - sort by time of last access
 - x - multicolumn format with entries sorted across, rather than down
 - 1 - force output to be one entry per line
+
+### Usage
+
+run ./ft_ls after compiling the project with any supported flags like you would do with familiar ls command
 
 ### Project commands
 
