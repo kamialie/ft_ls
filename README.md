@@ -19,7 +19,9 @@ Supported flags:
 
 ### Usage
 
-run ./ft_ls after compiling the project with any supported flags like you would do with familiar ls command
+compile the project with make command
+
+run ./ft_ls with any supported flags like you would do with familiar ls command
 
 ### Project commands
 
