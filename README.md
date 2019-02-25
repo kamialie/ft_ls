@@ -3,7 +3,7 @@ ft_ls [README in construction]
 
 ## Reprogramming of terminal ls command
 
-Supported flags:
+Supported flags:\n
 A - list all entries except . and ..
 C - force multi-column output
 G - enable colorized output
