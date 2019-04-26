@@ -1,6 +1,6 @@
 # ft_ls
 
-## Reprogramming of terminal ls command
+## Reprogramming of terminal ls command (team of two project)
 
 Supported flags:
 - A - list all entries except . and ..
